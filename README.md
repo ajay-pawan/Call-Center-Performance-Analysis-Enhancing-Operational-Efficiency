@@ -1,6 +1,8 @@
 # Call-Center-Performance-Analysis-Enhancing-Operational-Efficiency
 
-![Uploading freepik__candid-image-photography-natural-textures-highly-r__4686.jpeg…]()
+![freepik__candid-image-photography-natural-textures-highly-r__4686](https://github.com/user-attachments/assets/0e7a9d16-a0cc-401f-ab64-67ce69d4834e)
+
+
 
 
 
