@@ -6,7 +6,7 @@
 
 
 
-### Overview
+### Problem Statement
 
 Call centers are critical for customer support, but measuring efficiency, customer satisfaction, and agent performance is challenging. The goal was to analyze key metrics, identify improvement areas, and provide actionable insights to enhance overall productivity and customer experience.
 
@@ -26,6 +26,14 @@ DAX: For custom calculations, including KPIs and advanced measures.
 Data Transformation: Leveraged Power Query for preprocessing call data.
 
 Statistical Analysis: Used trend analysis for churn and satisfaction prediction.
+
+### dashboard Design
+
+
+![Untitled design (1)](https://github.com/user-attachments/assets/81d8eccf-dacd-4c13-a1c5-b61e37098253)
+
+
+
 
 
 ### Key Insights Delivered
