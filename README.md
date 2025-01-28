@@ -38,7 +38,7 @@ Statistical Analysis: Used trend analysis for churn and satisfaction prediction.
 
 
 
-### Key Insights Delivered
+### Key Metrics Delivered
 
 ---
 
@@ -89,4 +89,35 @@ Provided insights into churn patterns and suggested retention strategies.
 
 **Operational Efficiency Dashboard:**
 Focused on overall service metrics like wait times, call drop rates, and escalation handling.
+
+
+### Here are some insights from the call center dashboard:
+
+1. **Call Volume and Distribution:**
+   A total of 5,000 calls were received from January to March, with January having the highest volume at 1,772 calls.
+  Out of 5,000 total calls, 4,054 were answered, and 946 were abandoned.
+
+2. **Issue Resolution**:
+  - 3,646 cases were resolved, while 1,354 remained unresolved, showing a resolution rate of about 72.9%.
+
+3. **Daily Agent Performance:**
+  Call distribution per agent shows individual call handling counts, with Jim and Dan handling the highest call volumes consistently.
+
+4. **Call Metrics:**
+  Average Handling Time (AHT): 00:03:51
+  Average Pickup Time: 00:01:07
+  Satisfaction Rate: 3.45
+
+5. **Customer Churn Analysis:**
+  Out of 7,043 customers, 1,869 churned, giving a churn rate of approximately 26.54%.
+  Churn by contract shows higher churn among monthly contract holders compared to one- or two-year contracts.
+
+6. **Services and Payment Modes:**
+  Key services include Phone Service (6,361 customers) and Internet Service (5,517 customers), with lesser uptake for services like Tech Support (2,044).
+  Common payment methods include electronic checks, mailed checks, and credit cards, with electronic checks being the most popular.
+
+7. **Customer Demographics:**
+  Key demographic factors include gender, partner status, and senior citizenship, which could influence customer engagement and churn patterns.
+
+This analysis provides insights into call handling efficiency, customer satisfaction, churn drivers, and popular service preferences.
 
