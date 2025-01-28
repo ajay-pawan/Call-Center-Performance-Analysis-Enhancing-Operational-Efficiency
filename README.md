@@ -32,7 +32,7 @@ Statistical Analysis: Used trend analysis for churn and satisfaction prediction.
 
 ![Untitled design (1)](https://github.com/user-attachments/assets/81d8eccf-dacd-4c13-a1c5-b61e37098253)
 
-[Compelet Dashboard to view analysis](https://app.powerbi.com/view?r=eyJrIjoiNWY2NzViZDMtZTRkMi00MjE0LWFkODctZTlhZDViODg5MWJmIiwidCI6IjViOGEyNGIxLTA5MjgtNDdmZC04MzhmLTgwYTMxNTVhM2NhZiJ9)
+[Compelete Dashboard to View Analysis](https://app.powerbi.com/view?r=eyJrIjoiNWY2NzViZDMtZTRkMi00MjE0LWFkODctZTlhZDViODg5MWJmIiwidCI6IjViOGEyNGIxLTA5MjgtNDdmZC04MzhmLTgwYTMxNTVhM2NhZiJ9)
 
 
 
